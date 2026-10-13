@@ -65,7 +65,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.learning.javafxjdbc/com.learning.javafxjdbc.HelloApplication</mainClass>
+                            <mainClass>com.learning.javafxjdbc/com.learning.javafxjdbc.Application</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
